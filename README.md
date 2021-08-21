@@ -1,2 +1,2 @@
 # algos
-Ready to use algorithms for programming competitions
+Useful algorithms for competitive programming
